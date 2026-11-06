@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 720" role="img" aria-labelledby="title desc">
+  <title id="title">Rabbit Graphic Tee size chart</title>
+  <desc id="desc">Garment measurements in centimeters. Sizes S through 3XL list length, chest, shoulder, and sleeve measurements.</desc>
+  <rect width="1120" height="720" fill="#f5f3ef"/>
+  <text x="560" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#181818">RABBIT GRAPHIC TEE</text>
+  <text x="560" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#68645e">GARMENT SIZE CHART · CM</text>
+  <rect x="55" y="160" width="1010" height="70" rx="4" fill="#191919"/>
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="145" y="205">SIZE</text><text x="340" y="205">LENGTH</text><text x="535" y="205">CHEST</text><text x="730" y="205">SHOULDER</text><text x="925" y="205">SLEEVE</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="25" fill="#202020" text-anchor="middle">
+    <rect x="55" y="230" width="1010" height="70" fill="#fff"/><text x="145" y="276">S</text><text x="340" y="276">68</text><text x="535" y="276">100</text><text x="730" y="276">48</text><text x="925" y="276">20</text>
+    <rect x="55" y="300" width="1010" height="70" fill="#e8e6e2"/><text x="145" y="346">M</text><text x="340" y="346">71</text><text x="535" y="346">106</text><text x="730" y="346">50</text><text x="925" y="346">21</text>
+    <rect x="55" y="370" width="1010" height="70" fill="#fff"/><text x="145" y="416">L</text><text x="340" y="416">72</text><text x="535" y="416">108</text><text x="730" y="416">52</text><text x="925" y="416">22</text>
+    <rect x="55" y="440" width="1010" height="70" fill="#e8e6e2"/><text x="145" y="486">XL</text><text x="340" y="486">74</text><text x="535" y="486">110</text><text x="730" y="486">54</text><text x="925" y="486">23</text>
+    <rect x="55" y="510" width="1010" height="70" fill="#fff"/><text x="145" y="556">2XL</text><text x="340" y="556">76</text><text x="535" y="556">116</text><text x="730" y="556">56</text><text x="925" y="556">24</text>
+    <rect x="55" y="580" width="1010" height="70" fill="#e8e6e2"/><text x="145" y="626">3XL</text><text x="340" y="626">78</text><text x="535" y="626">120</text><text x="730" y="626">58</text><text x="925" y="626">25</text>
+  </g>
+</svg>

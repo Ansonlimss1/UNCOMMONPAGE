@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+  <title id="title">Retro Striped Polo size guide</title>
+  <desc id="desc">Recommended sizes by height and body weight: 155 to 160 centimeters, M for 47.5 to 57.5 kilograms; 160 to 165 centimeters, M for 47.5 to 57.5 kilograms and L for 57.5 to 67.5 kilograms; 165 to 170 centimeters, L for 47.5 to 57.5 and 57.5 to 67.5 kilograms, XL for 67.5 to 77.5 kilograms; 170 to 175 centimeters, XL for 47.5 to 57.5 and 57.5 to 67.5 kilograms, 2XL for 67.5 to 77.5 kilograms.</desc>
+  <rect width="1120" height="760" fill="#f5f3ef"/>
+  <text x="560" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#181818">RETRO STRIPED POLO</text>
+  <text x="560" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68645e">SIZE GUIDE · APPROXIMATE BODY WEIGHT</text>
+  <rect x="40" y="150" width="1040" height="78" rx="4" fill="#191919"/>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="170" y="181">HEIGHT</text><text x="170" y="207">(CM)</text>
+    <text x="400" y="181">47.5–57.5 KG</text><text x="400" y="207">(95–115 JIN)</text>
+    <text x="660" y="181">57.5–67.5 KG</text><text x="660" y="207">(115–135 JIN)</text>
+    <text x="920" y="181">67.5–77.5 KG</text><text x="920" y="207">(135–155 JIN)</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="24" fill="#202020" text-anchor="middle">
+    <rect x="40" y="228" width="1040" height="82" fill="#fff"/><text x="170" y="279">155–160</text><text x="400" y="279">M</text><text x="660" y="279">—</text><text x="920" y="279">—</text>
+    <rect x="40" y="310" width="1040" height="82" fill="#e8e6e2"/><text x="170" y="361">160–165</text><text x="400" y="361">M</text><text x="660" y="361">L</text><text x="920" y="361">—</text>
+    <rect x="40" y="392" width="1040" height="82" fill="#fff"/><text x="170" y="443">165–170</text><text x="400" y="443">L</text><text x="660" y="443">L</text><text x="920" y="443">XL</text>
+    <rect x="40" y="474" width="1040" height="82" fill="#e8e6e2"/><text x="170" y="525">170–175</text><text x="400" y="525">XL</text><text x="660" y="525">XL</text><text x="920" y="525">2XL</text>
+  </g>
+  <text x="560" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#68645e">Weight ranges converted from the supplied chart (1 jin = 0.5 kg). Use as a general guide.</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title description">
+  <title id="title">Uncommon Apparel Size Guide</title>
+  <desc id="description">Size recommendations by height and weight, translated from the supplied chart.</desc>
+  <rect width="1200" height="800" fill="#1d1d1d"/>
+  <rect x="38" y="38" width="1124" height="680" rx="16" fill="#222"/>
+  <g stroke="#454545" stroke-width="2">
+    <path d="M38 168h1124M38 306h1124M38 444h1124M38 582h1124"/>
+    <path d="M366 38v680M631 38v680M896 38v680"/>
+  </g>
+  <g fill="#f4f2ed" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="202" y="121" font-size="34" font-weight="700">Height / Weight</text>
+    <text x="498" y="121" font-size="34" font-weight="700">50–55 kg</text>
+    <text x="763" y="121" font-size="34" font-weight="700">55–60 kg</text>
+    <text x="1029" y="121" font-size="34" font-weight="700">60–65 kg</text>
+    <text x="202" y="254" font-size="36">160–165 cm</text>
+    <text x="498" y="254" font-size="36">M</text>
+    <text x="763" y="254" font-size="36">L</text>
+    <text x="1029" y="254" font-size="36">—</text>
+    <text x="202" y="392" font-size="36">165–170 cm</text>
+    <text x="498" y="392" font-size="36">M</text>
+    <text x="763" y="392" font-size="36">L</text>
+    <text x="1029" y="392" font-size="36">L</text>
+    <text x="202" y="530" font-size="36">170–175 cm</text>
+    <text x="498" y="530" font-size="36">L</text>
+    <text x="763" y="530" font-size="36">L</text>
+    <text x="1029" y="530" font-size="36">L / XL</text>
+    <text x="202" y="668" font-size="36">175–180 cm</text>
+    <text x="498" y="668" font-size="36">—</text>
+    <text x="763" y="668" font-size="36">—</text>
+    <text x="1029" y="668" font-size="36">2XL</text>
+  </g>
+  <text x="600" y="765" fill="#aaa" font-family="Arial, sans-serif" font-size="17" text-anchor="middle">Weight converted from jin (斤): 1 jin = 0.5 kg · Recommendations shown through 2XL; 3XL is not listed in the supplied chart.</text>
+</svg>

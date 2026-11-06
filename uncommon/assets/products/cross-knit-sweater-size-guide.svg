@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">Cross Knit Sweater size guide</title>
+  <desc id="desc">Recommended size by body weight: 37.5 to 45 kilograms S, 45 to 52.5 kilograms M, 52.5 to 57.5 kilograms L. The source chart does not list a weight recommendation for XL.</desc>
+  <rect width="1000" height="620" fill="#f5f3ef"/>
+  <text x="500" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#181818">CROSS KNIT SWEATER</text>
+  <text x="500" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#68645e">SIZE GUIDE · APPROXIMATE BODY WEIGHT</text>
+  <rect x="90" y="175" width="820" height="68" rx="4" fill="#191919"/>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#fff">WEIGHT (KG)</text>
+  <text x="700" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#fff">RECOMMENDED SIZE</text>
+  <g font-family="Arial, sans-serif" font-size="25" fill="#202020" text-anchor="middle">
+    <rect x="90" y="243" width="820" height="70" fill="#fff"/><text x="300" y="288">37.5–45 kg</text><text x="700" y="288">S</text>
+    <rect x="90" y="313" width="820" height="70" fill="#e8e6e2"/><text x="300" y="358">45–52.5 kg</text><text x="700" y="358">M</text>
+    <rect x="90" y="383" width="820" height="70" fill="#fff"/><text x="300" y="428">52.5–57.5 kg</text><text x="700" y="428">L</text>
+    <rect x="90" y="453" width="820" height="70" fill="#e8e6e2"/><text x="300" y="498">Not specified</text><text x="700" y="498">XL</text>
+  </g>
+  <text x="500" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#68645e">Weight ranges converted from the supplied chart (1 jin = 0.5 kg). Use as a general guide.</text>
+</svg>

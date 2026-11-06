@@ -1,0 +1,49 @@
+[debug] [2026-11-06T16:26:21.979Z] ----------------------------------------------------------------------
+[debug] [2026-11-06T16:26:21.981Z] Command:       C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node.exe C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\bin\firebase.js projects:list --json
+[debug] [2026-11-06T16:26:21.981Z] CLI Version:   15.35.0
+[debug] [2026-11-06T16:26:21.981Z] Platform:      win32
+[debug] [2026-11-06T16:26:21.981Z] Node Version:  v24.20.0
+[debug] [2026-11-06T16:26:21.981Z] Detected Agent: codex_cli
+[debug] [2026-11-06T16:26:21.981Z] Time:          Sat Nov 07 2026 00:26:21 GMT+0800 (Malaysia Time)
+[debug] [2026-11-06T16:26:21.981Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-11-06T16:26:21.990Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2026-11-06T16:26:22.146Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-11-06T16:26:22.164Z] Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\node_modules\google-auth-library\build\src\auth\googleauth.js:287:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async GoogleAuth._GoogleAuth_determineClient (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\node_modules\google-auth-library\build\src\auth\googleauth.js:834:32)
+    at async GoogleAuth.getClient (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\node_modules\google-auth-library\build\src\auth\googleauth.js:698:20)
+    at async GoogleAuth.getAccessToken (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\node_modules\google-auth-library\build\src\auth\googleauth.js:722:24)
+    at async autoAuth (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\requireAuth.js:38:19)
+    at async Object.requireAuth [as fn] (C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\requireAuth.js:100:20)
+    at async C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\command.js:285:17
+[error] 
+[error] Error: Failed to authenticate, have you run firebase login?
+[debug] [2026-11-06T16:27:48.594Z] ----------------------------------------------------------------------
+[debug] [2026-11-06T16:27:48.596Z] Command:       C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node.exe C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2026-11-06T16:27:48.596Z] CLI Version:   15.35.0
+[debug] [2026-11-06T16:27:48.596Z] Platform:      win32
+[debug] [2026-11-06T16:27:48.596Z] Node Version:  v24.20.0
+[debug] [2026-11-06T16:27:48.597Z] Detected Agent: codex_cli
+[debug] [2026-11-06T16:27:48.597Z] Time:          Sat Nov 07 2026 00:27:48 GMT+0800 (Malaysia Time)
+[debug] [2026-11-06T16:27:48.597Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-11-06T16:27:48.605Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2026-11-06T16:27:48.730Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2026-11-06T16:27:48.730Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"cc7e3db5-539b-4c22-8d0d-d4f210b4bae5"}
+[debug] [2026-11-06T16:27:49.222Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2026-11-06T16:27:49.222Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2026-11-06T16:27:49.299Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2026-11-06T16:29:21.237Z] ----------------------------------------------------------------------
+[debug] [2026-11-06T16:29:21.239Z] Command:       C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node.exe C:\Users\anson04\AppData\Local\Microsoft\WinGet\Packages\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe\node-v24.20.0-win-x64\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2026-11-06T16:29:21.239Z] CLI Version:   15.35.0
+[debug] [2026-11-06T16:29:21.240Z] Platform:      win32
+[debug] [2026-11-06T16:29:21.240Z] Node Version:  v24.20.0
+[debug] [2026-11-06T16:29:21.240Z] Detected Agent: codex_cli
+[debug] [2026-11-06T16:29:21.240Z] Time:          Sat Nov 07 2026 00:29:21 GMT+0800 (Malaysia Time)
+[debug] [2026-11-06T16:29:21.240Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-11-06T16:29:21.373Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2026-11-06T16:29:21.373Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"6c5ef4d9-7e38-41e8-876a-24e83cd5e57b"}
+[debug] [2026-11-06T16:29:21.850Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200

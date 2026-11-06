@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 760" role="img" aria-labelledby="title desc">
+  <title id="title">Dog Graphic Sweatshirt size guide</title>
+  <desc id="desc">Visible source chart recommendations by height and approximate body weight. 160 to 165 centimeters: size M at 50 to 55 kilograms, L at 55 to 60 kilograms. 165 to 170 centimeters: M or L at 50 to 55 kilograms, L at 55 to 60 kilograms, XL at 60 to 65 kilograms. 170 to 175 centimeters: L at 50 to 55 kilograms and 55 to 60 kilograms, XL at 60 to 65 kilograms. 175 to 180 centimeters: no recommendation at 50 to 55 kilograms, XL at 55 to 60 and 60 to 65 kilograms.</desc>
+  <rect width="1180" height="760" fill="#f5f3ef"/>
+  <text x="590" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#181818">DOG GRAPHIC SWEATSHIRT</text>
+  <text x="590" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68645e">SIZE GUIDE · APPROXIMATE BODY WEIGHT</text>
+  <rect x="40" y="150" width="1100" height="82" rx="4" fill="#191919"/>
+  <g font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="170" y="182">HEIGHT</text><text x="170" y="208">(CM)</text>
+    <text x="430" y="182">50–55 KG</text><text x="430" y="208">(100–110 JIN)</text>
+    <text x="690" y="182">55–60 KG</text><text x="690" y="208">(110–120 JIN)</text>
+    <text x="950" y="182">60–65 KG</text><text x="950" y="208">(120–130 JIN)</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#202020" text-anchor="middle">
+    <rect x="40" y="232" width="1100" height="88" fill="#fff"/><text x="170" y="287">160–165</text><text x="430" y="287">M</text><text x="690" y="287">L</text><text x="950" y="287">—</text>
+    <rect x="40" y="320" width="1100" height="88" fill="#e8e6e2"/><text x="170" y="375">165–170</text><text x="430" y="375">M / L</text><text x="690" y="375">L</text><text x="950" y="375">XL</text>
+    <rect x="40" y="408" width="1100" height="88" fill="#fff"/><text x="170" y="463">170–175</text><text x="430" y="463">L</text><text x="690" y="463">L</text><text x="950" y="463">XL</text>
+    <rect x="40" y="496" width="1100" height="88" fill="#e8e6e2"/><text x="170" y="551">175–180</text><text x="430" y="551">—</text><text x="690" y="551">XL</text><text x="950" y="551">XL</text>
+  </g>
+  <text x="590" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#68645e">Only the columns visible in the supplied image are shown. Weight ranges converted from jin (1 jin = 0.5 kg).</text>
+</svg>

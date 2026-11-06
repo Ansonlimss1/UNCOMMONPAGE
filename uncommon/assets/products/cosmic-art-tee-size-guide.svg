@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 760" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmic Art Tee size guide</title>
+  <desc id="desc">Visible size recommendations by height and approximate body weight. 160 to 165 centimeters: L for 57.5 to 62.5 kilograms. 165 to 170 centimeters: L for 57.5 to 62.5 kilograms and XL for 62.5 to 67.5 kilograms. 170 to 175 centimeters and 175 to 180 centimeters: XL for 57.5 to 72.5 kilograms.</desc>
+  <rect width="1180" height="760" fill="#f5f3ef"/>
+  <text x="590" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#181818">COSMIC ART TEE</text>
+  <text x="590" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#68645e">SIZE GUIDE · APPROXIMATE BODY WEIGHT</text>
+  <rect x="40" y="150" width="1100" height="82" rx="4" fill="#191919"/>
+  <g font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="170" y="182">HEIGHT</text><text x="170" y="208">(CM)</text>
+    <text x="430" y="182">57.5–62.5 KG</text><text x="430" y="208">(115–125 JIN)</text>
+    <text x="690" y="182">62.5–67.5 KG</text><text x="690" y="208">(125–135 JIN)</text>
+    <text x="950" y="182">67.5–72.5 KG</text><text x="950" y="208">(135–145 JIN)</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#202020" text-anchor="middle">
+    <rect x="40" y="232" width="1100" height="88" fill="#fff"/><text x="170" y="287">160–165</text><text x="430" y="287">L</text><text x="690" y="287">—</text><text x="950" y="287">—</text>
+    <rect x="40" y="320" width="1100" height="88" fill="#e8e6e2"/><text x="170" y="375">165–170</text><text x="430" y="375">L</text><text x="690" y="375">XL</text><text x="950" y="375">—</text>
+    <rect x="40" y="408" width="1100" height="88" fill="#fff"/><text x="170" y="463">170–175</text><text x="430" y="463">XL</text><text x="690" y="463">XL</text><text x="950" y="463">XL</text>
+    <rect x="40" y="496" width="1100" height="88" fill="#e8e6e2"/><text x="170" y="551">175–180</text><text x="430" y="551">XL</text><text x="690" y="551">XL</text><text x="950" y="551">XL</text>
+  </g>
+  <text x="590" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#68645e">Only visible columns from the supplied chart are shown. Weight ranges converted from jin (1 jin = 0.5 kg).</text>
+</svg>

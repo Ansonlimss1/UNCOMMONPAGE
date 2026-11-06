@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="690" viewBox="0 0 1100 690" role="img" aria-labelledby="title description">
+  <title id="title">Heavyweight cotton tee size chart</title>
+  <desc id="description">English measurements in centimeters for sizes S through 3XL.</desc>
+  <rect width="1100" height="690" fill="#f5f3ee"/>
+  <text x="52" y="70" fill="#171717" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">UNCOMMON · SIZE GUIDE</text>
+  <text x="52" y="130" fill="#171717" font-family="Arial,sans-serif" font-size="38" font-weight="700">Heavyweight Cotton Tee</text>
+  <text x="52" y="170" fill="#62615e" font-family="Arial,sans-serif" font-size="18">Garment measurements are in centimeters.</text>
+  <rect x="42" y="198" width="1016" height="70" rx="10" fill="#171717"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700"><text x="90" y="242">SIZE</text><text x="255" y="242">BODY LENGTH</text><text x="460" y="242">CHEST</text><text x="650" y="242">SHOULDER</text><text x="855" y="242">SLEEVE LENGTH</text></g>
+  <g font-family="Arial,sans-serif" font-size="21" fill="#202020">
+    <rect x="42" y="268" width="1016" height="58" fill="#fff"/><text x="90" y="306">S</text><text x="275" y="306">68 cm</text><text x="480" y="306">100 cm</text><text x="670" y="306">48 cm</text><text x="875" y="306">20 cm</text>
+    <rect x="42" y="326" width="1016" height="58" fill="#e9e7e2"/><text x="90" y="364">M</text><text x="275" y="364">71 cm</text><text x="480" y="364">106 cm</text><text x="670" y="364">50 cm</text><text x="875" y="364">21 cm</text>
+    <rect x="42" y="384" width="1016" height="58" fill="#fff"/><text x="90" y="422">L</text><text x="275" y="422">72 cm</text><text x="480" y="422">108 cm</text><text x="670" y="422">52 cm</text><text x="875" y="422">22 cm</text>
+    <rect x="42" y="442" width="1016" height="58" fill="#e9e7e2"/><text x="90" y="480">XL</text><text x="275" y="480">74 cm</text><text x="480" y="480">110 cm</text><text x="670" y="480">54 cm</text><text x="875" y="480">23 cm</text>
+    <rect x="42" y="500" width="1016" height="58" fill="#fff"/><text x="90" y="538">2XL</text><text x="275" y="538">76 cm</text><text x="480" y="538">116 cm</text><text x="670" y="538">56 cm</text><text x="875" y="538">24 cm</text>
+    <rect x="42" y="558" width="1016" height="58" fill="#e9e7e2"/><text x="90" y="596">3XL</text><text x="275" y="596">78 cm</text><text x="480" y="596">120 cm</text><text x="670" y="596">58 cm</text><text x="875" y="596">25 cm</text>
+  </g>
+  <text x="52" y="655" fill="#62615e" font-family="Arial,sans-serif" font-size="16">Measurements may vary slightly; compare with a tee you already own for your preferred fit.</text>
+</svg>

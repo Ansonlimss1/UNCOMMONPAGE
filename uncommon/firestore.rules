@@ -1,0 +1,25 @@
+﻿rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isOwner() {
+      return request.auth != null
+        && request.auth.token.email == 'ansonlim04@gmail.com'
+        && request.auth.token.email_verified == true;
+    }
+
+    match /orders/{orderId} {
+      allow read: if request.auth != null
+        && (isOwner() || resource.data.userId == request.auth.uid);
+      allow create, delete: if false;
+      allow update: if isOwner()
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['paymentStatus', 'shippingStatus'])
+        && request.resource.data.paymentStatus in ['awaiting-verification', 'paid', 'rejected']
+        && request.resource.data.shippingStatus in ['Order received', 'Processing', 'Shipped', 'Delivered', 'Cancelled'];
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

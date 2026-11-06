@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="760" viewBox="0 0 1320 760" role="img" aria-labelledby="title description">
+  <title id="title">Vintage American Graffiti Tee size chart</title>
+  <desc id="description">English garment measurements in centimeters and recommended weights in kilograms and jin for sizes S through 4XL.</desc>
+  <rect width="1320" height="760" fill="#f5f3ee"/>
+  <text x="54" y="68" fill="#171717" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">UNCOMMON · SIZE GUIDE</text>
+  <text x="54" y="126" fill="#171717" font-family="Arial,sans-serif" font-size="38" font-weight="700">Vintage American Graffiti Tee</text>
+  <text x="54" y="166" fill="#62615e" font-family="Arial,sans-serif" font-size="18">Garment measurements are in centimeters. Recommended weight is a fit guide.</text>
+  <rect x="42" y="198" width="1236" height="76" rx="10" fill="#171717"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">
+    <text x="72" y="244">SIZE</text><text x="205" y="244">BODY LENGTH</text><text x="400" y="244">CHEST</text><text x="575" y="244">SHOULDER</text><text x="775" y="244">SLEEVE</text><text x="950" y="232">RECOMMENDED WEIGHT</text><text x="990" y="254">KG / JIN</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="18" fill="#202020">
+    <rect x="42" y="274" width="1236" height="62" fill="#fff"/><text x="72" y="313">S</text><text x="225" y="313">65 cm</text><text x="420" y="313">100 cm</text><text x="600" y="313">47 cm</text><text x="800" y="313">19 cm</text><text x="970" y="313">35–45 kg / 70–90 jin</text>
+    <rect x="42" y="336" width="1236" height="62" fill="#e9e7e2"/><text x="72" y="375">M</text><text x="225" y="375">67 cm</text><text x="420" y="375">104 cm</text><text x="600" y="375">50 cm</text><text x="800" y="375">20 cm</text><text x="970" y="375">42.5–52.5 kg / 85–105 jin</text>
+    <rect x="42" y="398" width="1236" height="62" fill="#fff"/><text x="72" y="437">L</text><text x="225" y="437">69 cm</text><text x="420" y="437">108 cm</text><text x="600" y="437">53 cm</text><text x="800" y="437">21 cm</text><text x="970" y="437">52.5–62.5 kg / 105–125 jin</text>
+    <rect x="42" y="460" width="1236" height="62" fill="#e9e7e2"/><text x="72" y="499">XL</text><text x="225" y="499">71 cm</text><text x="420" y="499">112 cm</text><text x="600" y="499">56 cm</text><text x="800" y="499">22 cm</text><text x="970" y="499">62.5–70 kg / 125–140 jin</text>
+    <rect x="42" y="522" width="1236" height="62" fill="#fff"/><text x="72" y="561">2XL</text><text x="225" y="561">73 cm</text><text x="420" y="561">116 cm</text><text x="600" y="561">58 cm</text><text x="800" y="561">23 cm</text><text x="970" y="561">70–80 kg / 140–160 jin</text>
+    <rect x="42" y="584" width="1236" height="62" fill="#e9e7e2"/><text x="72" y="623">3XL</text><text x="225" y="623">75 cm</text><text x="420" y="623">122 cm</text><text x="600" y="623">60 cm</text><text x="800" y="623">24 cm</text><text x="970" y="623">80–90 kg / 160–180 jin</text>
+    <rect x="42" y="646" width="1236" height="62" fill="#fff"/><text x="72" y="685">4XL</text><text x="225" y="685">77 cm</text><text x="420" y="685">126 cm</text><text x="600" y="685">62 cm</text><text x="800" y="685">24 cm</text><text x="970" y="685">90–105 kg / 180–210 jin</text>
+  </g>
+  <text x="54" y="742" fill="#62615e" font-family="Arial,sans-serif" font-size="15">Weight conversion: 1 jin = 0.5 kg. Measurements may vary slightly; compare with a tee you already own.</text>
+</svg>

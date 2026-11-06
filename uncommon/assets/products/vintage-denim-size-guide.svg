@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title description">
+  <title id="title">Vintage denim tee size chart</title>
+  <desc id="description">English measurements in centimeters for sizes M, L, XL and 2XL.</desc>
+  <rect width="1200" height="620" fill="#f5f3ee"/>
+  <text x="62" y="72" fill="#171717" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">UNCOMMON · SIZE GUIDE</text>
+  <text x="62" y="134" fill="#171717" font-family="Arial,sans-serif" font-size="40" font-weight="700">Unisex Vintage Denim Tee</text>
+  <text x="62" y="174" fill="#62615e" font-family="Arial,sans-serif" font-size="19">Garment measurements are in centimeters.</text>
+  <rect x="52" y="210" width="1096" height="70" rx="10" fill="#171717"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700">
+    <text x="100" y="254">SIZE</text><text x="300" y="254">BODY LENGTH</text><text x="520" y="254">CHEST</text><text x="735" y="254">SHOULDER</text><text x="960" y="254">SLEEVE LENGTH</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="23" fill="#202020">
+    <rect x="52" y="280" width="1096" height="68" fill="#fff"/><text x="100" y="325">M</text><text x="330" y="325">68 cm</text><text x="550" y="325">108 cm</text><text x="770" y="325">52 cm</text><text x="995" y="325">20 cm</text>
+    <rect x="52" y="348" width="1096" height="68" fill="#e9e7e2"/><text x="100" y="393">L</text><text x="330" y="393">70 cm</text><text x="550" y="393">112 cm</text><text x="770" y="393">54 cm</text><text x="995" y="393">21 cm</text>
+    <rect x="52" y="416" width="1096" height="68" fill="#fff"/><text x="100" y="461">XL</text><text x="330" y="461">72 cm</text><text x="550" y="461">116 cm</text><text x="770" y="461">56 cm</text><text x="995" y="461">22 cm</text>
+    <rect x="52" y="484" width="1096" height="68" fill="#e9e7e2"/><text x="100" y="529">2XL</text><text x="330" y="529">74 cm</text><text x="550" y="529">120 cm</text><text x="770" y="529">58 cm</text><text x="995" y="529">23 cm</text>
+  </g>
+  <text x="62" y="589" fill="#62615e" font-family="Arial,sans-serif" font-size="16">Measurements may vary slightly. Compare with a tee you already own for your preferred fit.</text>
+</svg>

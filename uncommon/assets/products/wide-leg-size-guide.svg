@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title description">
+  <title id="title">Wide-leg pants size guide</title>
+  <desc id="description">English size chart with trouser length, recommended height, and recommended weight in kilograms and jin.</desc>
+  <rect width="1200" height="780" fill="#f5f3ee"/>
+  <text x="64" y="82" fill="#171717" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">UNCOMMON · SIZE GUIDE</text>
+  <text x="64" y="145" fill="#171717" font-family="Arial, sans-serif" font-size="42" font-weight="700">Black Curved Wide-Leg Pants</text>
+  <text x="64" y="184" fill="#62615e" font-family="Arial, sans-serif" font-size="20">Choose a size using the measurements below.</text>
+  <rect x="54" y="220" width="1092" height="76" rx="12" fill="#171717"/>
+  <g fill="#fff" font-family="Arial, sans-serif" font-size="19" font-weight="700">
+    <text x="90" y="267">SIZE</text><text x="285" y="267">TROUSER LENGTH</text><text x="535" y="267">HEIGHT (CM)</text><text x="815" y="267">WEIGHT (KG / JIN)</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#202020">
+    <rect x="54" y="296" width="1092" height="66" fill="#fff"/><text x="90" y="338">S</text><text x="305" y="338">98 cm</text><text x="555" y="338">155–160</text><text x="835" y="338">40–50 kg / 80–100 jin</text>
+    <rect x="54" y="362" width="1092" height="66" fill="#e9e7e2"/><text x="90" y="404">M</text><text x="305" y="404">100 cm</text><text x="555" y="404">160–170</text><text x="835" y="404">50–57.5 kg / 100–115 jin</text>
+    <rect x="54" y="428" width="1092" height="66" fill="#fff"/><text x="90" y="470">L</text><text x="305" y="470">102 cm</text><text x="555" y="470">170–175</text><text x="835" y="470">57.5–62.5 kg / 115–125 jin</text>
+    <rect x="54" y="494" width="1092" height="66" fill="#e9e7e2"/><text x="90" y="536">XL</text><text x="305" y="536">104 cm</text><text x="555" y="536">170–178</text><text x="835" y="536">62.5–70 kg / 125–140 jin</text>
+    <rect x="54" y="560" width="1092" height="66" fill="#fff"/><text x="90" y="602">2XL</text><text x="305" y="602">106 cm</text><text x="555" y="602">170–180</text><text x="835" y="602">70–80 kg / 140–160 jin</text>
+    <rect x="54" y="626" width="1092" height="66" fill="#e9e7e2"/><text x="90" y="668">3XL</text><text x="305" y="668">108 cm</text><text x="555" y="668">175–185</text><text x="835" y="668">80–90 kg / 160–180 jin</text>
+  </g>
+  <text x="64" y="740" fill="#62615e" font-family="Arial, sans-serif" font-size="17">Weight conversion: 1 jin = 0.5 kg. Measurements are recommendations; fit may vary.</text>
+</svg>
